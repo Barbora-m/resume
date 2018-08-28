@@ -1,0 +1,13 @@
+// Overwrite Bootstrap's variables here
+// You can find them in node_modules/bootstrap/scss/_variables.scss
+// Copy the variables you need into this file, don't modify files under node_modules/
+
+// Adding (!) an additional theme color (ex. classes btn-cool, bg-cool)
+//$theme-colors: (
+//  "cool": #4d3fa3
+//);
+
+$secondary: #580058;
+$warning: #ff024e;
+$font-size-base: 1rem;
+$h1-font-size: $font-size-base * 2.7;
